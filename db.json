@@ -4,21 +4,21 @@
             "id": 0,
             "description": "Bowling NFT",
             "external_url": "https://pipeflare.io",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://statics.pipeflare.io/assets/images/badges/Badged-NFT/2xstake.jpg",
             "name": "Bowling NFT 0"
         },
         {
             "id": 1,
             "description": "Bowling NFT",
             "external_url": "https://pipeflare.io",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://statics.pipeflare.io/assets/images/badges/Badged-NFT/faucet2x.jpg",
             "name": "Bowling NFT 1"
         },
         {
             "id": 2,
             "description": "Bowling NFT",
             "external_url": "https://pipeflare.io",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://statics.pipeflare.io/assets/images/badges/Badged-NFT/leaderboard2x.jpg",
             "name": "Bowling NFT 2"
         }
     ]
